@@ -8,7 +8,7 @@ This project contains folders and files that support the estimation and predicti
   Each county folder contains files related to:
   - Estimation of carrying capacity for historical years
   - Setting up the probability density function for the respective county
-  - Risk estimation and prediction for the last three years  
+  - Risk estimation (2006-2020) and prediction (2021-2023)
   *Note:* The outputs have been published in the `supplementary.docx` file.
 
 - **Global Warming Folder**  
